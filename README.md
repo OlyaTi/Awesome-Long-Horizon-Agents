@@ -395,6 +395,7 @@ To make the notion of "horizon" concrete, [METR](https://arxiv.org/abs/2503.1449
 - **`arXiv 2026`** Agentic Aggregation for Parallel Scaling of Long-Horizon Agentic Tasks. [[paper](https://arxiv.org/abs/2604.11753)]
 - **`arXiv 2026`** Agentic Test-Time Scaling for WebAgents. [[paper](https://arxiv.org/abs/2602.12276)]
 - **`arXiv 2025`** LOKA Protocol: A Decentralized Framework for Trustworthy and Ethical AI Agent Ecosystems. [[paper](https://arxiv.org/abs/2504.10915)]
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 
 ### Hooks and Middleware
 
