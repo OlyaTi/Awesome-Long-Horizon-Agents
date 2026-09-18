@@ -112,6 +112,7 @@ If you find this survey and repository useful for your research, please consider
 ---
 
 ## <img src="assets/icons/foundations.png" height="30" align="top"/> Foundations: Formalizing Long-Horizon Agents
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — drop-in recorder that sits between your agent and the model provider.
 
 <div align="center">
 <img src="assets/sec2_foundations.png" width="90%" alt="Three levels of long-horizon tasks and capabilities"/>
