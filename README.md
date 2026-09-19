@@ -798,6 +798,7 @@ To make the notion of "horizon" concrete, [METR](https://arxiv.org/abs/2503.1449
 - **`Anthropic Engineering 2026`** Scaling Managed Agents: Decoupling the brain from the hands. [[paper](https://www.anthropic.com/engineering/managed-agents)]
 - **`arXiv 2025`** AInsteinBench: Benchmarking Coding Agents on Scientific Repositories. [[paper](https://arxiv.org/abs/2512.21373)]
 - **`ICML 2025`** SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering? [[paper](https://proceedings.mlr.press/v267/miserendino25a.html)]
+- **`2026`** YYLO: A command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries. [[code](https://github.com/yylo-dev/yylo)]
 
 **Feedback-driven repair**
 - **`ICML 2025`** Training Software Engineering Agents and Verifiers with SWE-Gym. [[paper](https://arxiv.org/abs/2412.21139)] [[code](https://github.com/SWE-Gym/SWE-Gym)]
