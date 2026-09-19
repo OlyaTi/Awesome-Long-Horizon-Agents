@@ -660,6 +660,7 @@ To make the notion of "horizon" concrete, [METR](https://arxiv.org/abs/2503.1449
 - **`arXiv 2025`** ToRL: Scaling Tool-Integrated RL. [[paper](https://arxiv.org/abs/2503.23383)]
 - **`ICML 2026`** Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward. [[paper](https://arxiv.org/abs/2602.00845)]
 - **`arXiv 2026`** Self-Induced Outcome Potential: Turn-Level Credit Assignment for Agents without Verifiers. [[paper](https://arxiv.org/abs/2605.04984)]
+- **`arXiv 2026`** DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training. [[paper](https://arxiv.org/abs/2609.04094)] [[code](https://github.com/IBM/draco)]
 
 **Policy Optimization**
 - **`arXiv 2025`** REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models. [[paper](https://arxiv.org/abs/2501.03262)] [[code](https://github.com/OpenRLHF/OpenRLHF)]
